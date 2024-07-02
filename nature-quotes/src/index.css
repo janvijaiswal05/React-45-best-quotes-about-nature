@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-image: url("https://img.freepik.com/free-photo/digital-painting-mountain-with-colorful-tree-foreground_1340-25699.jpg?t=st=1690253497~exp=1690257097~hmac=57892a29bccb03c3c94fabb4a5a195f509a81c73e315b69e61a1fdcc3400497d&w=900");
+  background-size: 95rem 652px;
+  background-position:  center;
+ 
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
